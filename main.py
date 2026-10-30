@@ -42,3 +42,19 @@
 
 # describe_rectangle(width, height)
 
+# value = 10
+# def example():
+#     value = 20
+#     score = 100
+#     print(value)
+    
+# example()
+# print(value)
+# print(score)
+
+number = [11, 15, 34, 13, 57, 346, 96, 80, 53, 49, 85, 14, 19]
+number.append(33)
+number.pop(4)
+print(number[0])    
+print(number)
+print(len(number))  
